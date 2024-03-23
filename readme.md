@@ -1,3 +1,18 @@
+This Repository is about showing an example of creating the integrated story of Maximo Manage + Watson.ai + Watson Assistant & Discovery
+
+Leverage Generative AI capabilities in the Maximo Manage product to address some of the use cases. this is an example of Watson Assistant be integrated with Maximo Manage module
+
+Pre-Requisites to use the above setup and make it working
+
+1) Maximo Manage module installed and ability to make API requests to the application
+2) Watson Assistant Project created to upload the code snippet
+3) Environment to deploy "Flask" or 'IBM Code engine" to setup API's to make requests (API) from Watson Assistant
+
+Brief Architecture of the Overall Flow is as below
+
+<img src="images/architecture.png">
+
+
 ## Maximo DB Interface
 
 In this documentation lets explore about the following.
